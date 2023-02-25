@@ -18,9 +18,7 @@ Hometown: Tangail
 | --- | --- | --- | --- | --- |
 | **BSc** | Information and Communication Technology | In progress | Mawlana Bhashani Science & Technology University (MBSTU) | CGPA-3.53 up to 6th semester |
 | **HSC** | Science | 2017 | BAF Shaheen college Dhaka | GPA 5.00 |
-| **SSC** | Science | 2015 | BAF Shaheen college Paharkanchanpur, Tangail
- | Golden GPA 5.00 with scholarship
- |
+| **SSC** | Science | 2015 | BAF Shaheen college Paharkanchanpur, Tangail | Golden GPA 5.00 with scholarship |
 
 ## SKILLS AND ABILITIES
 
